@@ -1,0 +1,30 @@
+'''
+Index(['Kundennummer', 'Lfd. Nr. Urk.', 'Ort', 'Status Original',
+       'Status Archivierung', 'Dokumentenart', 'Schlagwort', 'Kundenname',
+       'Hauptidentifizierungsmerkmal', 'Beschreibung', 'Datum Dokument',
+       'Kontonummer', 'Betrag  ', 'Währung', 'Erstelldatum', 'Ersteller',
+       'Datum Entnahme', 'Mölln', 'letzte Änderung am', 'letzte Änderung von'],
+      dtype='object')'''
+
+'''
+Kundennummer                           float64
+Lfd. Nr. Urk.                          float64
+Ort                                     object
+Status Original                         object
+Status Archivierung                     object
+Dokumentenart                           object
+Schlagwort                              object
+Kundenname                              object
+Hauptidentifizierungsmerkmal            object
+Beschreibung                            object
+Datum Dokument                  datetime64[ns]
+Kontonummer                            float64
+Betrag                                 float64
+Währung                                 object
+Erstelldatum                    datetime64[ns]
+Ersteller                               object
+Datum Entnahme                  datetime64[ns]
+Mölln                                   object
+letzte Änderung am              datetime64[ns]
+letzte Änderung von                     object
+dtype: object'''
